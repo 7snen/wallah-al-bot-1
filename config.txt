@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=490871722011131935
+prefix=1
+game=#PG Community|1play
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTkwMTkyOTQ2NDYxMTQ3MTUy.XQeqIA.QZ07HE7vGhUF5cdthPfLpaLOoTY
